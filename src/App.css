@@ -76,6 +76,15 @@
 
 .content {
   transition: margin-left 0.4s ease-in-out;
+  list-style: none;
+  display: flex;
+  border:solid;
+  align-items: center;
+
+}
+.content img{
+  width: 200px;
+
 }
 
 .content.shifted {
